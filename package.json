@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@admin-bro/mongoose": "^1.1.0",
+    "admin-bro": "^4.0.1",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.5",
+    "react-redux": "^7.2.3",
+    "tslib": "^2.2.0"
+  }
+}
